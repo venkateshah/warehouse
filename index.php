@@ -17,7 +17,7 @@
     
    <marquee class="marq"
              bgcolor="Blue" direction="right" behavior="alternate">
-        <h1 style="color:White"><font size="2">Welcome to Warehouse management system</font></h1>
+        <h1 style="color:White"><font size="2">Welcome to Warehouse</font></h1>
       
 
     </marquee> 
